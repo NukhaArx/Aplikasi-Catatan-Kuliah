@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/etMatkul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mata kuliah"
+        android:inputType="textCapWords" />
+
+    <Spinner
+        android:id="@+id/spHari"
+        android:layout_width="match_parent"
+        android:layout_height="48dp" />
+
+    <EditText
+        android:id="@+id/etJamMulai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:hint="Jam mulai"
+        android:inputType="none" />
+
+    <EditText
+        android:id="@+id/etJamSelesai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:hint="Jam selesai"
+        android:inputType="none" />
+
+    <EditText
+        android:id="@+id/etRuangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ruangan (opsional)"
+        android:inputType="textCapCharacters" />
+
+    <EditText
+        android:id="@+id/etDosen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Dosen (opsional)"
+        android:inputType="textCapWords" />
+</LinearLayout>

@@ -1,0 +1,8 @@
+com.example.catatankuliah.app-pngs-0 C:\Users\rank\AndroidStudioProjects\CatatanKuliah\app\build\generated\res\pngs\debug
+com.example.catatankuliah.app-updated_navigation_xml-1 C:\Users\rank\AndroidStudioProjects\CatatanKuliah\app\build\generated\updated_navigation_xml\debug
+com.example.catatankuliah.app-packageDebugResources-2 C:\Users\rank\AndroidStudioProjects\CatatanKuliah\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.catatankuliah.app-packageDebugResources-3 C:\Users\rank\AndroidStudioProjects\CatatanKuliah\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.catatankuliah.app-debug-4 C:\Users\rank\AndroidStudioProjects\CatatanKuliah\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.catatankuliah.app-debug-5 C:\Users\rank\AndroidStudioProjects\CatatanKuliah\app\src\debug\res
+com.example.catatankuliah.app-main-6 C:\Users\rank\AndroidStudioProjects\CatatanKuliah\app\src\main\res
+gradleHome-0 C:\Users\rank\.gradle

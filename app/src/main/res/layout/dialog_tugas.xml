@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/etJudul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Judul tugas"
+        android:inputType="textCapSentences" />
+
+    <EditText
+        android:id="@+id/etMatkul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mata kuliah"
+        android:inputType="textCapWords" />
+
+    <EditText
+        android:id="@+id/etDeskripsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Deskripsi (opsional)"
+        android:inputType="textMultiLine|textCapSentences"
+        android:minLines="2" />
+
+    <EditText
+        android:id="@+id/etDeadline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:hint="Pilih deadline"
+        android:inputType="none" />
+</LinearLayout>
